@@ -163,7 +163,7 @@ Result and validation in future publications:
 
 ![](assets/images/massartetal_validation.png){fig-align="center"}
 
-## Drought Monitoring from Space
+## Simple Metrics for Drought
 
 ::: {layout-nrow=2}
 ![](assets/images/zscores_mozam.png)
@@ -173,6 +173,7 @@ Result and validation in future publications:
 :::
 
 ::: {.notes}
+How translate complex data into simple metrics!
 Copernicus Global Land Service (CGLS)
 Remember again that we can calculate this near-real time
 :::
@@ -215,4 +216,13 @@ Benefits for the student
 
 
 ## Outlook
+
+ - Start of the rainy season metric
+   + context of climate change
+   + historical microwave backscatter time series
+   + region-specific likelihood
+ - Intuitive drought information tools
+   + Mobile friendly
+   + Easy maintenance
+   + Open source and interoperable
 
