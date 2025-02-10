@@ -13,11 +13,28 @@ format:
 jupyter: un_spider_20250212
 ---
 
-## Team
+## DrySat Team {.smaller}
 
-Rogério Borguete A. Rafael1, Luis Artur1, Famba, Sebastião1, Celma Niquice Janeiro1, and Jaime Macuácua1
+:::: {.columns}
 
-Martin Schobben2, Mariette Vreugdenhil2, Samuel Massart2, Carina Villegas Lituma2, Wolfgang Wagner2
+::: {.column width="50%"}
+
+ - Rogério Borguete A. Rafael
+ - Luis Artur
+ - Famba, Sebastião
+ - Celma Niquice Janeiro
+ - Jaime Macuácua
+
+:::
+
+::: {.column width="50%"}
+  - Mariette Vreugdenhil
+  - Samuel Massart
+  - Carina Villegas Lituma
+  - Wolfgang Wagner
+:::
+
+::::
 
 ## {background-image="assets/images/restoring_drought_affected_agriculture.jpg"}
 
@@ -45,7 +62,7 @@ Mozambique is vulnerable to climate change
 
 ## Objectives
 
-- Developing satellite drought indicators at a kilometer scale resolution over Mozambique
+- Developing satellite drought indicators at a kilometer sampling scale
 - Integration of early warning system tools for drought monitoring
 - Gender sensitive capacity development of project beneficiaries 
 
@@ -58,7 +75,7 @@ Mozambique is vulnerable to climate change
 - Field soil moisture sensors
 - Microwave Satellites
   + continuous (all weather, day-and-night)
-  + high resolution
+  + km sampling scale
 :::
 
 ::: {.column width="50%"}
@@ -78,7 +95,7 @@ It is then a very cost effective solution to give insights on soil conditions - 
 :::
 
 
-## Microwave backscattering
+## Microwave Backscattering
 
 ![https://hubblesite.org](assets/images/electromagnetic_spectrum.png)
 
@@ -89,7 +106,7 @@ Energy of microwaves reflected from a leaf are indicative of the leaf's proporti
 Dielectric properties: the frequency dependent radiative/absorptive properties (i.e. the physical make-up of the object).    
 :::
 
-## Microwave backscattering
+## Microwave Backscattering
 
 :::: {.columns}
 
@@ -165,3 +182,37 @@ Remember again that we can calculate this near-real time
 ```{=html}
 <iframe width="1080" height="500" src="https://drysat-viewer.geo.tuwien.ac.at/" title="DrySat Dataviewer"></iframe>
 ```
+
+## Capacity Building {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Benefits for the student
+
+- Field demonstration of early warning tools
+- Training of extension workers
+- Continuous professional development
+  + on-site and remote courses
+- Digital learning environment
+  + Cloud-based
+  + Browser as only requirement
+
+:::
+
+::: {.column width="50%"}
+
+![Photo credit: Seogi Kang](assets/images/oldenburg-geosci.jpg)
+
+:::
+
+::::
+
+## Women2women Mentoring Program
+
+![](assets/images/w2w.png){fig-align="center"}
+
+
+## Outlook
+
