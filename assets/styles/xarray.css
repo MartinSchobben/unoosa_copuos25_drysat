@@ -1,0 +1,46 @@
+.reveal pre.xr-text-repr-fallback {
+    display: none;
+}
+
+.reveal .xr-wrap {
+    display: block !important;
+    max-width: 90%;
+}
+
+.reveal .xr-array-wrap {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 30px auto;
+    /* font size of values in array */
+    font-size: 20px;
+}
+
+.reveal li.xr-var-item {
+    display: grid;
+    grid-template-columns: 300px auto auto 1fr 20px 20px;
+}
+
+.reveal ul.xr-var-list {
+    margin: 2%;
+    padding: 2%;
+    /* variable font size */
+    font-size: 20px;
+}
+
+.reveal .xr-dim-list {
+    /* the dimension in between brackets */
+    font-size: 18px;
+}
+
+.xr-obj-type,
+.xr-array-name {
+    margin-left: 2px;
+    margin-right: 10px;
+    /* title font size */
+    font-size: 22px; 
+}
+
+.reveal .xr-sections {
+    /* section header font size (e.g. 'Coordinates' en 'Indexes') */
+    font-size: 20px;
+}

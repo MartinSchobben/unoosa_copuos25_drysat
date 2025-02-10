@@ -1,0 +1,17 @@
+authors:
+    - name: TU Wien GEO MRS group
+      affiliations:
+        - ref: tu
+    - name: author2
+      affiliations:
+        - ref: wg
+affiliations:
+  - id: tu
+    name: "Department of Geodesy and Geoinformation, Technische Universität Wien"
+  - id: wg
+    name: "Another affiliation"
+filters:
+  - authors-block
+format:     
+    pptx:
+      reference-doc: assets/styles/geo-tuwien-template.pptx

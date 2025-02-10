@@ -1,0 +1,96 @@
+---
+title: "Monitoring Droughts in Mozambique from Space"
+author:
+  - Universidad Eduardo Mondlane (UEM), Maputo, Mozambique
+  - Technical University of Vienna (TU Wien), Austria
+format:
+    revealjs:
+        logo: assets/images/logo.png
+        css: ["assets/styles/xarray.css", "assets/styles/logo.css"]
+        output-ext: "html"
+        output-file: "index"
+        theme: [default, assets/styles/tuwien.scss]
+jupyter: un_spider_20250212
+---
+
+## Team
+
+Rogério Borguete A. Rafael1, Luis Artur1, Famba, Sebastião1, Celma Niquice Janeiro1, and Jaime Macuácua1
+
+Martin Schobben2, Mariette Vreugdenhil2, Samuel Massart2, Carina Villegas Lituma2, Wolfgang Wagner2
+
+## {background-image="assets/images/restoring_drought_affected_agriculture.jpg"}
+
+::: {style="font-size: 30%;"}
+Source: https://baxter-agency.com/
+:::
+
+## Context {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Mozambique is vulnerable to climate change
+
+- High-reliance on rain-fed agriculture
+- Increased occurrence of droughts
+- Delay in the start of the rainy season
+:::
+
+::: {.column width="50%"}
+![](assets/images/mozam_jobs_agro.png)
+:::
+
+::::
+
+## Objectives
+
+- Developing satellite drought indicators at a kilometer scale resolution over Mozambique
+- Integration of early warning system tools for drought monitoring
+- Gender sensitive capacity development of project beneficiaries 
+
+## Detecting Droughts
+
+- Rain gauges/sensors
+- Microwave Satellites
+  + continuos (all weather, day-and-night)
+  + high resolution
+
+## Microwave backscattering
+
+![https://hubblesite.org](assets/images/electromagnetic_spectrum.png)
+
+:::{.notes}
+Microwaves: centimeter to sub-milimeter wavelength.    
+Why microwave? Interactions with objects are governed by other physical processes than the visible or infrared EM domain.    
+Energy of microwaves reflected from a leaf are indicative of the leaf's proportions and water content rather then chlorophyll.     
+Dielectric properties: the frequency dependent radiative/absorptive properties (i.e. the physical make-up of the object).    
+:::
+
+## Microwave backscattering
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![1 km sampling soil moisture](assets/images/sentinel-1.png)
+:::
+
+::: {.column width="50%"}
+![6.25 km sampling soil moisture](assets/images/metop.png)
+:::
+
+::::
+
+::: {.notes}
+Ground Sampling Distance
+:::
+
+## Soil Moisture
+
+![Quast et al. (2023)](assets/images/med%C3%9Fssm.mp4)
+
+:::{.notes}
+Dielectric potential of soil with and without water.    
+Historic data, oscillations in content according to seasons and long term trends.    
+This kinds of products are also produced at near real-time.    
+:::
