@@ -49,12 +49,34 @@ Mozambique is vulnerable to climate change
 - Integration of early warning system tools for drought monitoring
 - Gender sensitive capacity development of project beneficiaries 
 
-## Detecting Droughts
+## Detecting Droughts {.smaller}
 
-- Rain gauges/sensors
+:::: {.columns}
+
+::: {.column width="50%"}
+- Rain gauges
+- Field soil moisture sensors
 - Microwave Satellites
-  + continuos (all weather, day-and-night)
+  + continuous (all weather, day-and-night)
   + high resolution
+:::
+
+::: {.column width="50%"}
+![Bhardwaj et al. 2022](/assets/images/remote_vs_insitu.png){height=10%}
+:::
+
+::::
+
+:::{.notes}
+Rain gauges: indirect measure
+In situ soil moisture sensors very accurate measurement of a particular point and depth
+Satellites can cover whole geographic ares
+There can not be said whether one is better then the other
+It all depends on the application - in fact in the project we use both
+Remote sense data can be of particular value in areas where there is not good sensor network for measuring soil moisture
+It is then a very cost effective solution to give insights on soil conditions - basically we have data lying around we just need to extract he relevant information
+:::
+
 
 ## Microwave backscattering
 
@@ -85,7 +107,7 @@ Dielectric properties: the frequency dependent radiative/absorptive properties (
 Ground Sampling Distance
 :::
 
-## Soil Moisture
+## Remotely Sensed Soil Moisture
 
 ![Quast et al. (2023)](assets/images/med%C3%9Fssm.mp4)
 
@@ -94,3 +116,52 @@ Dielectric potential of soil with and without water.
 Historic data, oscillations in content according to seasons and long term trends.    
 This kinds of products are also produced at near real-time.    
 :::
+
+## In Situ Soil Moisture {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+ - 2023 in-situ installation
+ - General lack of in-situ data for product validation in Mozambique
+ - 4 depths (10, 20, 50cm)
+ - Daily update to the cloud
+
+:::
+
+::: {.column width="60%"}
+![](assets/images/insitu_ssm_mozam_all.png)
+:::
+
+::::
+
+:::{.notes}
+This gives use the possibility to validate our SSM products with strategically selected sites
+:::
+
+## Validation {.smaller}
+
+Result and validation in future publications: 
+*High-resolution drought monitoring with Sentinel-1 and ASCAT: A case-study over Mozambique, Massart Samuel,, Vreugdenhil Mariette, Rogerio Borguete, Rafael, Villegas-Lituma Carina, Muguda Sanjeevamurthy Pavan, Hahn Sebastian, Wolfgang Wagner (2025)*
+
+![](assets/images/massartetal_validation.png){fig-align="center"}
+
+## Drought Monitoring from Space
+
+::: {layout-nrow=2}
+![](assets/images/zscores_mozam.png)
+
+![](assets/images/Screenshot%202025-02-10%20at%2016-09-12%20Mozambique%20Badly%20Hit%20by%20El%20Nino-Induced%20Drought.png){width=40%}
+![](https://detectoutliers.com/wp-content/uploads/2023/03/z-score-2.png)
+:::
+
+::: {.notes}
+Copernicus Global Land Service (CGLS)
+Remember again that we can calculate this near-real time
+:::
+
+## Data Dissemination
+
+```{=html}
+<iframe width="1080" height="500" src="https://drysat-viewer.geo.tuwien.ac.at/" title="DrySat Dataviewer"></iframe>
+```

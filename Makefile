@@ -7,21 +7,11 @@ CONDA_ACTIVATE = source $$(conda info --base)/etc/profile.d/conda.sh ; conda act
 KERNEL_DIR != jupyter --data-dir
 KERNEL_DIR := $(KERNEL_DIR)/kernels/un_spider_20250212
 
-all: beamer pptx revealjs
+all: revealjs
 
 revealjs: $(BASENAME).qmd environment
 	$(CONDA_ACTIVATE) un_spider_20250212
 	quarto render $^ --output-dir public
-
-beamer: $(BASENAME).qmd environment
-	$(CONDA_ACTIVATE) un_spider_20250212
-	quarto add --no-prompt kapsner/authors-block
-	quarto render $^ --metadata-file _authors.yml --to beamer
-
-pptx: $(BASENAME).qmd environment
-	$(CONDA_ACTIVATE) un_spider_20250212
-	quarto add --no-prompt kapsner/authors-block
-	quarto render $^ --metadata-file _authors.yml --to pptx
 
 help:
 	@echo "make revealjs"
