@@ -23,18 +23,22 @@ jupyter: un_spider_20250212
  - Luis Artur
  - Famba, Sebastião
  - Celma Niquice Janeiro
- - Jaime Macuácua
+ - Jaime Macuácua    
 
+![](assets/images/PHOTO-2023-07-05-17-08-48.jpg)
 :::
 
 ::: {.column width="50%"}
   - Mariette Vreugdenhil
   - Samuel Massart
   - Carina Villegas Lituma
-  - Wolfgang Wagner
+  - Wolfgang Wagner    
+  
+  ![](assets/images/PHOTO-2023-07-10-11-15-17.jpg)
 :::
 
 ::::
+
 
 ## {background-image="assets/images/restoring_drought_affected_agriculture.jpg"}
 
@@ -136,7 +140,7 @@ This kinds of products are also produced at near real-time.
 
 ## Remotely Sensed Soil Moisture
 
-::: {layout-nco=2}
+::: {layout-ncol=2}
 ![](assets/images/comparison_ssm_0.png){fig-align="center"}
 ![](assets/images/comparison_ssm_1.png){fig-align="center"}
 :::
@@ -210,7 +214,7 @@ Benefits for the student
 - Field demonstration of early warning tools
 - Training of extension workers
 - Continuous professional development
-  + on-site and remote courses
+  + On-site and remote courses
 - Digital learning environment
   + Cloud-based
   + Browser as only requirement
@@ -233,11 +237,18 @@ Benefits for the student
 ## Outlook
 
  - Start of the rainy season metric
-   + context of climate change
-   + historical microwave backscatter time series
-   + region-specific likelihood
+   + Context of climate change
+   + Historical microwave backscatter time series
+   + Region-specific likelihood
  - Intuitive drought information tools
    + Mobile friendly
    + Easy maintenance
    + Open source and interoperable
+
+## Acknowledgements
+
+
+This project has received funding from the Austrian Development Agency (ADA) under grant agreement No 2789-00/2022
+
+![](assets/images/ADA_Logo_JPG.jpg){height="150" fig-align="center"}
 
