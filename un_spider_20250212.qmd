@@ -134,6 +134,19 @@ Historic data, oscillations in content according to seasons and long term trends
 This kinds of products are also produced at near real-time.    
 :::
 
+## Remotely Sensed Soil Moisture
+
+::: {layout-nco=2}
+![](assets/images/comparison_ssm_0.png){fig-align="center"}
+![](assets/images/comparison_ssm_1.png){fig-align="center"}
+:::
+
+
+::: {.notes}
+More of the same, just the show the year by year changes of an orbit overpass in June.
+Here one sees that the yearly distribution of drought/wetness of soil does not have to be the same -> highlite the importance of remotely sensed data with that resolves a whole geographic area. 
+:::
+
 ## In Situ Soil Moisture {.smaller}
 
 :::: {.columns}
