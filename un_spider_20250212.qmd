@@ -181,8 +181,10 @@ Remember again that we can calculate this near-real time
 ## Data Dissemination
 
 ```{=html}
-<iframe width="1080" height="500" src="https://drysat-viewer.geo.tuwien.ac.at/" title="DrySat Dataviewer"></iframe>
+<iframe width="1080" height="450" src="https://drysat-viewer.geo.tuwien.ac.at/" title="DrySat Dataviewer"></iframe>
 ```
+
+![](assets/images/qrcode_drysat-viewer-geo-tuwien-ac-at.png){.absolute bottom=0 left=0 width="150" height="150"}
 
 ## Capacity Building {.smaller}
 
