@@ -1,5 +1,6 @@
 ---
 title: "Monitoring Droughts in Mozambique from Space"
+subtitle: DrySat
 author:
   - Universidad Eduardo Mondlane (UEM), Maputo, Mozambique
   - Technical University of Vienna (TU Wien), Austria
@@ -33,7 +34,7 @@ jupyter: un_spider_20250212
   - Samuel Massart
   - Carina Villegas Lituma
   - Wolfgang Wagner    
-  
+
   ![](assets/images/PHOTO-2023-07-10-11-15-17.jpg)
 :::
 
@@ -140,7 +141,7 @@ This kinds of products are also produced at near real-time.
 
 ## Remotely Sensed Soil Moisture
 
-::: {layout-ncol=2}
+::: {layout-nco=2}
 ![](assets/images/comparison_ssm_0.png){fig-align="center"}
 ![](assets/images/comparison_ssm_1.png){fig-align="center"}
 :::
