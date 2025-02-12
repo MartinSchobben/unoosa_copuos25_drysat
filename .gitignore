@@ -3,7 +3,7 @@
 *.html
 *.pptx
 *.tex
-!docs/*.pdf
+!*.pdf
 !geo-tuwien-template.pptx
 public/
 
