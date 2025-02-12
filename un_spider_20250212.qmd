@@ -264,7 +264,6 @@ Remember again that we can calculate this near-real time
 ## Acknowledgements
 
 
-This project has received funding from the Austrian Development Agency (ADA) under grant agreement No 2789-00/2022
+This project has received funding from the Austrian Development Cooperation under grant agreement No 2789-00/2022
 
-![](assets/images/ADA_Logo_JPG.jpg){height="150" fig-align="center"}
-
+![](assets/images/ADA_Logo_JPG_new.jpg){height="150" fig-align="center"}
