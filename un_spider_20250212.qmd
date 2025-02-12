@@ -140,7 +140,7 @@ Ground Sampling Distance
 ## {background-video="assets/images/med%C3%9Fssm.mp4" background-size=contain}
 
 ::: {style="font-size: 50%;"}
-Quast et al. (2023)
+Remotely Sensed Soil Moisture (Quast et al. 2023)
 :::
 
 
