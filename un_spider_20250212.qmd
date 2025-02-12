@@ -161,7 +161,7 @@ This kinds of products are also produced at near real-time.
 
 ::: {.notes}
 More of the same, just the show the year by year changes of an orbit overpass in June.
-Here one sees that the yearly distribution of drought/wetness of soil does not have to be the same -> highlite the importance of remotely sensed data with that resolves a whole geographic area. 
+Here one sees that the yearly distribution of drought/wetness of soil does not have to be the same -> highlight the importance of remotely sensed data with that resolves a whole geographic area. 
 :::
 
 ## In Situ Soil Moisture {.smaller}
@@ -189,7 +189,7 @@ This gives use the possibility to validate our SSM products with strategically s
 ## Validation {.smaller}
 
 Result and validation in future publications: 
-*High-resolution drought monitoring with Sentinel-1 and ASCAT: A case-study over Mozambique, Massart Samuel,, Vreugdenhil Mariette, Rogerio Borguete, Rafael, Villegas-Lituma Carina, Muguda Sanjeevamurthy Pavan, Hahn Sebastian, Wolfgang Wagner (2025)*
+*High-resolution drought monitoring with Sentinel-1 and ASCAT: A case-study over Mozambique, Massart Samuel,, Vreugdenhil Mariette, Rogerio Borguete, Rafael, Villegas-Lituma Carina, Muguda Sanjeevamurthy Pavan, Hahn Sebastian, Wolfgang Wagner (submitted)*
 
 ![](assets/images/massartetal_validation.png){fig-align="center"}
 
@@ -208,13 +208,16 @@ Copernicus Global Land Service (CGLS)
 Remember again that we can calculate this near-real time
 :::
 
-## Data Dissemination
+## Data Dissemination {.smaller}
+
+[https://drysat-viewer.geo.tuwien.ac.at/](https://drysat-viewer.geo.tuwien.ac.at/)
 
 ```{=html}
 <iframe width="1080" height="450" src="https://drysat-viewer.geo.tuwien.ac.at/" title="DrySat Dataviewer"></iframe>
 ```
 
-![](assets/images/qrcode_drysat-viewer-geo-tuwien-ac-at.png){.absolute bottom=0 left=0 width="150" height="150"}
+![](assets/images/qrcode_drysat-viewer-geo-tuwien-ac-at.png){.absolute bottom=0 left=0 width="200" height="200"}
+
 
 ## Capacity Building {.smaller}
 
