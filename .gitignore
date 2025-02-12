@@ -2,8 +2,8 @@
 *.svg
 *.html
 *.pptx
-*.pdf
 *.tex
+!docs/*.pdf
 !geo-tuwien-template.pptx
 public/
 
