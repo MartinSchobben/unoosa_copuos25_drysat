@@ -2,7 +2,7 @@
 title: "Monitoring Droughts in Mozambique from Space"
 subtitle: DrySat
 author:
-  - Universidad Eduardo Mondlane (UEM), Maputo, Mozambique
+  - University of Eduardo Mondlane (UEM), Maputo, Mozambique
   - Technical University of Vienna (TU Wien), Austria
 format:
     revealjs:
@@ -137,9 +137,13 @@ Dielectric properties: the frequency dependent radiative/absorptive properties (
 Ground Sampling Distance
 :::
 
-## Remotely Sensed Soil Moisture
+## {background-video="assets/images/med%C3%9Fssm.mp4" background-size=contain}
 
-![Quast et al. (2023)](assets/images/med%C3%9Fssm.mp4)
+::: {style="font-size: 50%;"}
+Quast et al. (2023)
+:::
+
+
 
 :::{.notes}
 Dielectric potential of soil with and without water.    
